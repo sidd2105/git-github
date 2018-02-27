@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 qwerthjxcvbnm,....,mnbvcxcvbnm,./.,mnvcvbnm,..,mnvbnm,
 
 Siddartha Mohareer.
+=======
+s
+
+siddartha.mohareer 
+>>>>>>> firstbranch
